@@ -1,2 +1,2 @@
 # Rainbow-Checklist
-Captain Rainbow's Color Checklist for [@MakeSchool's](https://www.makeschool.com) CS 1.1 Class
+Captain Rainbow's Color Checklist for [@MakeSchool](https://www.makeschool.com)'s CS 1.1 Class
